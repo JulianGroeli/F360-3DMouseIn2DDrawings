@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AppCfg Default="false" xmlns="" CfgFormatVersion="1.2" ThisFileVersion="1.6">
+  <AppInfo>
+    <Signature>
+      <Name>STR_FUSION360</Name>
+    </Signature>
+    <Options />
+  </AppInfo>
+  <CfgProperties>
+    <InheritsFrom>STR_FUSION360</InheritsFrom>
+    <Access />
+  </CfgProperties>
+  <AuthorInfo>
+    <DriverVersion>17.6.0.16266</DriverVersion>
+    <LastChange>
+      <Tool>3DxSmartUI.exe</Tool>
+      <Version>1.2.19147.16250</Version>
+      <Date>3/26/2020 8:07:45 PM UTC</Date>
+      <User>Julian Groeli</User>
+    </LastChange>
+    <Created>
+      <Tool>3DxService.exe</Tool>
+      <Version>17.6.0.16266</Version>
+      <Date>2019:6:2:25:21:16:52:208</Date>
+      <User>Julian Groeli</User>
+    </Created>
+  </AuthorInfo>
+  <Settings>
+    <OverallScale>1.00</OverallScale>
+  </Settings>
+  <Devices>
+    <Device>
+      <Name>Standard 3D Mouse</Name>
+      <VendorID>0</VendorID>
+      <ProductID>0</ProductID>
+      <InheritsFrom>Standard 3D Mouse</InheritsFrom>
+      <AxisBank>
+        <Name>Default</Name>
+        <ID>Default</ID>
+        <Axis>
+          <Enabled>true</Enabled>
+          <Input>
+            <ActionID>HIDMultiAxis_X</ActionID>
+            <Min>-512</Min>
+            <Max>511</Max>
+          </Input>
+          <Output>
+            <ActionID>HIDMultiAxis_X</ActionID>
+            <Scale>1.0000</Scale>
+          </Output>
+        </Axis>
+        <Axis>
+          <Enabled>true</Enabled>
+          <Input>
+            <ActionID>HIDMultiAxis_Y</ActionID>
+            <Min>-512</Min>
+            <Max>511</Max>
+          </Input>
+          <Output>
+            <ActionID>HIDMultiAxis_Y</ActionID>
+            <Scale>1.0000</Scale>
+          </Output>
+        </Axis>
+        <Axis>
+          <Enabled>true</Enabled>
+          <Input>
+            <ActionID>HIDMultiAxis_Z</ActionID>
+            <Min>-512</Min>
+            <Max>511</Max>
+          </Input>
+          <Output>
+            <ActionID>HIDMultiAxis_Z</ActionID>
+            <Scale>1.0000</Scale>
+          </Output>
+        </Axis>
+        <Axis>
+          <Enabled>true</Enabled>
+          <Input>
+            <ActionID>HIDMultiAxis_Rx</ActionID>
+            <Min>-512</Min>
+            <Max>511</Max>
+          </Input>
+          <Output>
+            <ActionID>HIDMultiAxis_Rx</ActionID>
+            <Scale>1.0000</Scale>
+          </Output>
+        </Axis>
+        <Axis>
+          <Enabled>true</Enabled>
+          <Input>
+            <ActionID>HIDMultiAxis_Ry</ActionID>
+            <Min>-512</Min>
+            <Max>511</Max>
+          </Input>
+          <Output>
+            <ActionID>HIDMultiAxis_Ry</ActionID>
+            <Scale>1.0000</Scale>
+          </Output>
+        </Axis>
+        <Axis>
+          <Enabled>true</Enabled>
+          <Input>
+            <ActionID>HIDMultiAxis_Rz</ActionID>
+            <Min>-512</Min>
+            <Max>511</Max>
+          </Input>
+          <Output>
+            <ActionID>HIDMultiAxis_Rz</ActionID>
+            <Scale>1.0000</Scale>
+          </Output>
+        </Axis>
+      </AxisBank>
+    </Device>
+    <Device>
+      <Name>SpaceMouse Pro Wireless</Name>
+      <VendorID>256f</VendorID>
+      <ProductID>c631</ProductID>
+      <ButtonBank Default="true">
+        <Name>STR_DEFAULT_BUTTONBANK</Name>
+        <ID>Default</ID>
+        <Button>
+          <Input>
+            <ActionID>HIDButton_13</ActionID>
+          </Input>
+          <Output>
+            <ActionID>HIDMouse_Left</ActionID>
+          </Output>
+        </Button>
+      </ButtonBank>
+    </Device>
+  </Devices>
+</AppCfg>
