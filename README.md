@@ -7,7 +7,7 @@ https://forums.autodesk.com/t5/fusion-360-ideastation/add-3d-mouse-support-in-dr
 https://forums.autodesk.com/t5/fusion-360-ideastation/pan-and-zoom-with-3d-mouse-in-2d-drawing/idi-p/9063688
 
 This project uses configuration files for the Spacemouse to send panning and zooming navigation commands to Fusion 360. Since Fusion 360 doesn't have a published API for 2D drawings mode, these configuration files set up the spacemouse to emulate a regular 2D mouse.
-- AcCoreConsole.xml contains the configuration for 2D navigation in 2D drawings mode
+- AcCoreConsole.xml contains the configuration for 2D navigation in 2D drawings mode.
 - Fusion360.xml contains the configuration for 3D navigation in Fusion's other modes: design, generative design, render, animation, simulation and manufacture. 
 
 Thanks to jwick on the 3D Connexion blog, without whom this would not have been possible. Please see the below thread and post comments and feedback here:
