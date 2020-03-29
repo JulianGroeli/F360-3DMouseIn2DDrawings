@@ -10,7 +10,7 @@ Since Fusion 360 doesn't have a published API for 2D drawings mode, this project
 - AcCoreConsole.xml contains the configuration for 2D navigation in 2D drawings mode.
 - Fusion360.xml contains the configuration for 3D navigation in Fusion's other modes: design, generative design, render, animation, simulation and manufacture. 
 
-Thanks to jwick on the 3D Connexion blog, without whom this would not have been possible. Please see the below thread and post comments and feedback here:
+Thanks to jwick on the 3D Connexion blog, without whom this would not have been possible. For more info on how we got here, see:
 https://www.3dconnexion.com/forum/viewtopic.php?f=25&t=39216
 
 Current functionality:
