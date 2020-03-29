@@ -5,6 +5,7 @@ I created this project because I couldn't find another way to use my Spacemouse 
 The need for this is covered in more detail on the archived Fusion 360 IdeaStation posts here:
 https://forums.autodesk.com/t5/fusion-360-ideastation/add-3d-mouse-support-in-drawing-mode/idi-p/6502859
 https://forums.autodesk.com/t5/fusion-360-ideastation/pan-and-zoom-with-3d-mouse-in-2d-drawing/idi-p/9063688
+https://forums.autodesk.com/t5/fusion-360-design-validate/3d-mouse-is-not-working-in-drawing/td-p/7121955
 
 Since Fusion 360 doesn't have a published API for 2D drawings mode, this project uses 3DxWare configuration files for the Spacemouse to send panning and zooming navigation commands to Fusion 360's 2D drawing mode using 2D mouse emulation.
 - AcCoreConsole.xml contains the configuration for 2D navigation in 2D drawings mode.
