@@ -36,6 +36,6 @@ Known issues:
 - If configuration files are edited in a text editor (eg notepad++), with the 3Dx service stopped but Fusion 360 still running, the 3D navigation mode does not work (no movement) once the 3Dx service is restarted. Once Fusion 360 is restarted it works again.
 
 To do:
-Update driver and update these configs to 1.3. The 1.2 versions are posted below if someone needs them.
+- Update driver and update these configs to 1.3. The currently posted versions are version 1.2.
 
 Feedback and comments are most welcome.
