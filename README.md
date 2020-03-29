@@ -1,4 +1,4 @@
-# F360-3D-Mouse-navigation-in-2D-Drawings
+# F360-3DMouseIn2DDrawings
 
 I created this project because I couldn't find another way to use my Spacemouse in Fusion 360's 2D Drawing mode.
 
