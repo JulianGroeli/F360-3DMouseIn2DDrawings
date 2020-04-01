@@ -3,6 +3,8 @@
 Latest updates:
 - Updated and tested with current 3DxWare driver and updated these configs to v1.3.
 
+---
+
 I created this project because I couldn't find another way to use my Spacemouse in Fusion 360's 2D Drawing mode.
 
 The need for this is covered in more detail on the archived Fusion 360 IdeaStation and on the Feedback Hub posts here:
