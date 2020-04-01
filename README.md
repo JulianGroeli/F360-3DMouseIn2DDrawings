@@ -26,8 +26,8 @@ Current functionality:
 - automatic loading of the 3D navigation configuration for design mode
 
 Tested platforms:
-Release 0.1.1: Win10 x64, using 3DxWare 10.6.5, 3DxWinCore 17.6.5.17089
-Release 0.1.0: Win10 x64, using 3DxWare 10.6.0, 3DxWinCore 17.6.0.16266
+- Release 0.1.1: Win10 x64, using 3DxWare 10.6.5, 3DxWinCore 17.6.5.17089
+- Release 0.1.0: Win10 x64, using 3DxWare 10.6.0, 3DxWinCore 17.6.0.16266
 
 How to install:
 - Download the .xml configuration files
